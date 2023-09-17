@@ -23,7 +23,7 @@ body {
     overflow-x: hidden;
 }
 .maincard02{
-    background-image: url(img/bgbez1.jpg);
+    background-image: url(img/bgspiz.png);
     background-size: 10%;
 }
 .mainCard{
@@ -464,7 +464,7 @@ h2{
     margin-bottom: 20px;
 }
 .mainpButton{
-    background: linear-gradient(rgb(39, 46, 74), rgb(0,0,0));
+    background: linear-gradient(rgb(46, 19, 0), rgb(0,0,0));
 }
 .mainButton2{
     margin-top: 50px;
